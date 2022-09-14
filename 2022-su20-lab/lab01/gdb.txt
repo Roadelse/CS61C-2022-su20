@@ -1,0 +1,9 @@
+1. run [arglist] or set args arglist
+2. b [file:]function; b [file:]line; b +- offset (lines from current stop); b *addr; break ... if expr
+3. n 
+4. s
+5. c
+6. print
+7. display
+8. info locals
+9. q or ctrl-D
